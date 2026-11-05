@@ -1,0 +1,6 @@
+{
+  "name": "Stephen Enterprises",
+  "description": "Premium Interior Design Business Management Application for Stephen Enterprises, Domlur, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
